@@ -115,7 +115,11 @@ int main(void)
 ```
 
 ## OUTPUT
+
+## ON
 ![image](https://github.com/user-attachments/assets/fa376d53-6f01-401b-8a82-1708da9e015a)
+
+## OFF
 ![image](https://github.com/user-attachments/assets/b956fba2-6241-4e87-978a-0c32f95eb442)
 
 ## Result
